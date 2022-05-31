@@ -1,6 +1,5 @@
-<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO https://omega6401.github.io/ FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+ΩMEGA!;HTML+Coder;Terrible+with+JavaScript;Cool+Gamer">
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO https://omega6401.github.io/ FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+ΩMEGA!;Coolest+child+in+robious+middle+school;HTML+Coder;Loves+video+games;STOP TELLING AMONG US JOKES!!!">
 <h1 align="center">Hi 👋, I'm OMEGA</h1>
-<h3 align="center">I´m the coolest child at robious middle school.</h3>
 
 <h1 align="center">
 <img height="175" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
