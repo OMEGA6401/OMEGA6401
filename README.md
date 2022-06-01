@@ -1,4 +1,4 @@
-<img alt="Sorry, content couldn't be loaded" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+ΩMEGA!;Im+a+HTML+Coder;I+love+video+games;">
+<img alt="Sorry, content couldn't be loaded" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+ΩMEGA!;Im+a+HTML+Coder;video+games+are+the+best;">
 <h1 align="center">Hi 👋, I'm OMEGA</h1>
 
 <h3 align="Middle">Coolest child in Robious Middle School </h3>
