@@ -1,9 +1,9 @@
 <img alt="Sorry, content couldn't be loaded" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+ΩMEGA!;Im+a+HTML+Coder;I+love+video+games;">
 <h1 align="center">Hi 👋, I'm OMEGA</h1>
 
-<h3 align="Middle">Coolest child in Robious Middle School </h3>
+<h4 align="Middle">Coolest child in Robious Middle School </h4>
 
-<h2 align="Middle">Programming humor</h2>
+<h3 align="Middle">Programming humor</h3>
     
 <h1 align="center">
 <img height="175" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
