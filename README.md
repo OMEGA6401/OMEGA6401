@@ -3,9 +3,9 @@
 
 <h3 align="center">Coolest child in Robious Middle School </h3>
 
-<h3
-    <a href="https://github.com/Progamer1251718">2nd Coolest child in Robious Middle School </a>
-    </h3>
+
+    <a align="center" href="https://github.com/Progamer1251718">2nd Coolest child in Robious Middle School </a>
+    
 
 <h1 align="center">
 <img height="175" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
