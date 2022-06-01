@@ -3,7 +3,9 @@
 
 <h3 align="center">Coolest child in Robious Middle School </h3>
 
-<a align="center" href="https://github.com/Progamer1251718">2nd Coolest child in Robious Middle School </a>
+<h3
+<a href="https://github.com/Progamer1251718">2nd Coolest child in Robious Middle School </a>
+</h3>
     
 
 <h1 align="center">
