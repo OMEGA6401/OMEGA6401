@@ -3,9 +3,7 @@
 
 <h3 align="Middle">Coolest child in Robious Middle School </h3>
 
-
 ---
-
 
 
 <h4 align="Middle">Programming humor</h4>
