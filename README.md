@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm OMEGA</h1>
 
 <h3 align="Middle">Coolest child in Robious Middle School </h3>
+<h10 align="center">‎</h10>
 <h1 align="center"></h1>
 <h4 align="center">‎</h4>
 
