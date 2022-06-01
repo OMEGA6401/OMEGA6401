@@ -3,9 +3,7 @@
 
 <h0 align="center">Coolest child in Robious Middle School </h3>
 
-<h0 align="center">
-    Humor
-    </h3>
+<h2 align="Middle">Programming humor</h2>
     
 <h1 align="center">
 <img height="175" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
