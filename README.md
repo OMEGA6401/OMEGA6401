@@ -6,7 +6,6 @@
 <h4 align="center">‎ </h4>
 <h4 align="center">‎ </h4>
 <h4 align="center">‎ </h4>
-<h4 align="center">‎ </h4>
 
 
 <h4 align="Middle">Programming humor:</h4>
